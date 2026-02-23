@@ -1,6 +1,4 @@
 # Programs-python
-Basics programs in python.
-
-Programas diversos em python
+Programas do basico ao avançado em python
 
 O programa de webcraller foi utilizado a biblioteca selelium + o envio para o email.
